@@ -1,2 +1,2 @@
 # OpenInk
-Repository for my Custom Eink Dashboard
+An open-source self-hosted dashboard for e-paper displays (TRMNL, Seeed reTerminal, ESP32).
