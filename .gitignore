@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.env
 
 # PlatformIO
 .pio/
@@ -11,12 +10,14 @@ venv/
 # VS Code
 .vscode/
 
-# macOS
+# OS
 .DS_Store
-
-# Windows
 Thumbs.db
 desktop.ini
 
-# Logs
-*.log
+# Python caches anywhere
+**/__pycache__/
+
+# Build artifacts
+**/.pio/
+**/build/
